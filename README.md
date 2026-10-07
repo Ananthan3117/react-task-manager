@@ -1,6 +1,3 @@
-Copy this entire `README.md`:
-
-```markdown
 # Task Manager – Your Reminder Buddy
 
 A modern and responsive task management web application built with **React and Vite**. It helps users organize daily tasks, manage priorities, track progress, and quickly find tasks using search and filters.
