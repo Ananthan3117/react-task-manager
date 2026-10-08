@@ -2,6 +2,10 @@
 
 A modern and responsive task management web application built with **React and Vite**. It helps users organize daily tasks, manage priorities, track progress, and quickly find tasks using search and filters.
 
+## Live Demo
+
+[View Live Demo](https://ananthan3117.github.io/react-task-manager/)
+
 ## Features
 
 - Add new tasks
