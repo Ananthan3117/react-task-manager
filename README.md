@@ -212,13 +212,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## Author
 
 **Ananthakrishnan A L**
-
-### GitHub
-
-https://github.com/Ananthan3117
-
-Copyright © 2026 **Ananthakrishnan A L**.
-
-Permission is granted to view and use this project for educational and personal purposes.
-
-Redistribution or commercial use of this project or substantial portions of the code should not be done without permission from the author.
