@@ -209,7 +209,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
+
 ## Author
 
-Ananthakrishnan A L
-https://github.com/Ananthan3117
+Ananthakrishnan A L  
+[GitHub](https://github.com/Ananthan3117)
