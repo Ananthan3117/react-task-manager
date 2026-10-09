@@ -1,5 +1,7 @@
 # Task Manager – Your Reminder Buddy
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A modern and responsive task management web application built with **React and Vite**. It helps users organize daily tasks, manage priorities, track progress, and quickly find tasks using search and filters.
 
 ## Live Demo
@@ -202,6 +204,11 @@ This project demonstrates practical knowledge of:
 - Component-based application structure
 - Vite development environment
 
+- ## License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ## Author
 
 **Ananthakrishnan A L**
@@ -209,10 +216,6 @@ This project demonstrates practical knowledge of:
 ### GitHub
 
 https://github.com/Ananthan3117
-
-## License
-
-This project is created for **learning and portfolio purposes**.
 
 Copyright © 2026 **Ananthakrishnan A L**.
 
